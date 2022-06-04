@@ -1,5 +1,6 @@
-
-### Hey, I'm Sophia Araujo 👋
+<div align="center">
+Hey, I'm Sophia Araujo 👋
+</div>
 
 ##
 
