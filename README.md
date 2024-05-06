@@ -1,6 +1,6 @@
 <div align="center">
   <h1> Hey, I'm Sophia Araujo 👋 </h1>
-  <h3> -🔭 I'm currently work as a Frontend</h3>
+  <h3> -🔭 I'm currently work as a Front end</h3>
   <h3> -🌱 I'm currently in college, on a technology-oriented course</h3>
 </div>
 
