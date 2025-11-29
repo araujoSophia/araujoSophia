@@ -1,14 +1,14 @@
 <div align="center">
   <h1> Hey, I'm Sophia Araujo 👋 </h1>
-  <h3> -🔭 I'm currently work as a Front end</h3>
+  <h3> -🔭 I'm currently work as a Full Stack</h3>
   <h3> -🌱 I'm currently in college, on a technology-oriented course</h3>
 </div>
 
-<div align="center">
+<!-- <div align="center">
   <a href="https://github.com/araujoSophia">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=araujoSophia&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=araujoSophia&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
+</div> -->
   
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="Sophia-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
